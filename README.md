@@ -1,4 +1,4 @@
-# weixin-
-功能:
-1.输入中文或者英文返回对应的英中翻译
-2.发送位置，返回当前位置的天气预报
+# Weixin-Backstage
+Using Sae+Python to establish the backstage of Weixin. It can implement basic functions like reply certain messages.
+
+The instructions can be found [here](http://www.jianshu.com/p/c81262593c88).
